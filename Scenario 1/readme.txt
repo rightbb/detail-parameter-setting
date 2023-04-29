@@ -1,3 +1,3 @@
-Job_Machine_* 对应6个规模
-DT_* 对应6个规模下的 各个产品的 交付时间以及惩罚系数。
-Data_*_1 对应6个规模下，产品的详细的工序、工艺、机器之间的等的映射关系
+Job_Machine_* corresponds to 6 scales
+DT_* corresponds to the delivery time and penalty coefficient of each product under the 6 scales.
+Data_*_1 corresponds to the mapping relationship between the detailed process, process, and machine of the product under the 6 scales
